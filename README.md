@@ -66,16 +66,16 @@
 
 <h2> AR 擴充實景 </h2>
 
-__胸章的 AR 擴充實景 [點擊下面啓動]:__
+__胸章的 AR 擴充實景 :__
 
-<a href="https://mixocreative.com/ar/?glb-badge_flat=Q版貓狗胸章%20橫放&&glb-badge_vertical=Q版貓狗胸章%20直立" target="_blank"><img src="https://www.mixocreative.com/ar/img/ar-demo.png" width="100"></a>
+<a href="https://mixocreative.com/ar/?glb-badge_flat=Q版貓狗胸章%20橫放&&glb-badge_vertical=Q版貓狗胸章%20直立" target="_blank"><img src="https://www.mixocreative.com/ar/img/ar-demo.png" width="100"></a> :arrow_right:[點擊啓動](https://mixocreative.com/ar/?glb-badge_flat=Q版貓狗胸章%20橫放&&glb-badge_vertical=Q版貓狗胸章%20直立)
 ### 使用説明
 
 ![]( width=100)
 <img src="https://www.mixocreative.com/ar/img/ar-instruction-bg.png" width="300">
 1. 模型若有不同顯示選項，將在這裏列出。
-2. 支援 3D AR 功能的裝置會顯示__啟動本機擴充實景__ APP 的按鈕
-3. 大部分不支援 3D AR 功能的裝置依然可以瀏覽器上鑑賞3D模型
+2. 支援 __3D AR__ 功能的裝置會顯示 __啟動本機擴充實景 APP__  的按鈕
+3. 大部分不支援 __3D AR__ 功能的裝置依然可以瀏覽器上鑑賞3D模型
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
