@@ -1,6 +1,6 @@
 <a name="readme-top"></a>
 <!-- PROJECT LOGO -->
-<h1 align="center">PUSS & POOCH :cat2::dog2: Q版貓狗胸章</h1>
+<h1 align="center">PUSS & POOCH :cat2::dog2: Q版貓狗胸章 3D 列印版</h1>
 <br />
 <div align="center">
     <img src="img/logo.png" alt="Logo" width="auto">
@@ -10,11 +10,13 @@
 <h2>關於</h2>
 <span><img src="https://mixocreative.com/ar/img/logo-3d.png" alt="Logo" width="100"><img src="https://mixocreative.com/ar/img/logo-type.svg" alt="Logo" width="100"></span>
 <p>Q版貓狗胸章立體化3D列印版本由明上堂有限公司設計提供，檔案版權公開。</p>
-  
+
+<p> [註] 明上堂有限公司不是Q版貓狗胸章(2D)的原作者。</p>
 <hr/>
 
 
 <h2>作品集與專頁</h2>
+<p>我正在尋求藝術作品的商品化方案或展出機會，歡迎到 Behance 瀏覽我的作品集。</p>
 
 [![](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mixocreative)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mixocreative)
@@ -42,9 +44,9 @@
 <h3>Public Diplomacy 理念論述</h3>
 <p>公共外交是設計師的重要命題。對內，創作內容所偏向使用的素材，可塑造市場之審美觀並建構社會的凝聚力。對外，輸出的產品將成為外國人對原產國模糊印象的投射。設計師在建立橋樑、促進理解並推動國家認同方面發揮了不可或缺的作用。</p>
 <p>相反，外來的實體也可能試圖通過運用媒體、社交平臺等非軍事手段來干預公眾意見。在保護民主進程的同時，有必要認識並抵制這種外部影響。擁抱本土價值觀和培養認同感是至關重要的對策，有助於增強其民主體制的韌性，減緩外部干預的影響。國家品牌建設，強調自主和在地的重要性，並強化一個國家的獨特優勢和價值觀。</p>
-<p>愛貓愛狗可以是普通市民之間，無分黨派，最大的公約數。 SP Huntington 在文明衝突論中認為，人與人之間最難化解的衝突源自文化、宗教、政治理念，超越這些圈子(afiliation)的共同興趣可以在族羣間締造和平的契機。</p>
-<p>考古和人類學家認為，尼安德塔人由於沒有像智人一樣在族羣之間大量進行文化交流（樂器、雕塑等藝術品等非實用品的交易），導致同類族羣間失去團結的優勢，結果在進化過程中被邊緣化走向凋零。渡邊靖認為，戰後的日本排脱軸心國的形象，有賴文化輸出莫名其妙地招來的正面評價。可愛的東西不論理由，都總能營造出團結的力量，甚至投射出軟實力。</p>
-<h1>讓我們為了人類，創作有趣的作品吧。</h1>
+<p>考古和人類學家認為，尼安德塔人由於沒有像智人一樣在族羣之間大量進行文化交流（樂器、雕塑等藝術品等非實用品的交易），導致同類族羣間在進化過程中被邊緣化步向凋零。渡邊靖認為，戰後的日本排脱軸心國的形象，有賴文化輸出莫名其妙地招來的正面評價。可愛的東西不論理由，都總能營造出團結的力量，甚至投射出軟實力。</p>
+<p>愛貓愛狗可以是普通市民之間，無分黨派，最大的公約數。 SP Huntington 在文明衝突論中認為，人與人之間最難化解的衝突源自文化圈子(afiliation)之間的身份認同、宗教、利益與政治理念。能夠超越這些圈子的共同興趣/喜好，可以在矛盾之中締造和平的契機。</p>
+<h1>為了世界和平，讓我們努力產出有趣的作品吧。</h1>
 
 <h3>參考書目</h3>
 
