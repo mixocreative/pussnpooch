@@ -43,7 +43,7 @@
 <p>公共外交是設計師的重要命題。對內，創作內容所偏向使用的素材，可塑造市場之審美觀並建構社會的凝聚力。對外，輸出的產品將成為外國人對原產國模糊印象的投射。設計師在建立橋樑、促進理解並推動國家認同方面發揮了不可或缺的作用。</p>
 <p>相反，外來的實體也可能試圖通過運用媒體、社交平臺等非軍事手段來干預公眾意見。在保護民主進程的同時，有必要認識並抵制這種外部影響。擁抱本土價值觀和培養認同感是至關重要的對策，有助於增強其民主體制的韌性，減緩外部干預的影響。國家品牌建設，強調自主和在地的重要性，並強化一個國家的獨特優勢和價值觀。</p>
 <p>愛貓愛狗可以是普通市民之間，無分黨派，最大的公約數。 SP Huntington 在文明衝突論中認為，人與人之間最難化解的衝突源自文化、宗教、政治理念，超越這些圈子(afiliation)的共同興趣可以在族羣間締造和平的契機。</p>
-<p>考古和人類學家認為，尼安德塔人由於沒有像智人一樣在族羣之間大量進行藝術工具（非實用品）交易，不重視文化交流導致同類族羣間失去團結的優勢，在進化生存上走向凋零。可愛的東西不論理由，都總能營造出團結的力量，甚至投射出軟實力。渡邊靖認為，雖然外國人可能不理解其背後的意義，日本可愛的事物總能莫名其妙地招來正面的評價。</p>
+<p>考古和人類學家認為，尼安德塔人由於沒有像智人一樣在族羣之間大量進行文化交流（樂器、雕塑等藝術品等非實用品的交易），導致同類族羣間失去團結的優勢，結果在進化過程中被邊緣化走向凋零。渡邊靖認為，戰後的日本排脱軸心國的形象，有賴文化輸出莫名其妙地招來的正面評價。可愛的東西不論理由，都總能營造出團結的力量，甚至投射出軟實力。</p>
 <h1>讓我們為了人類，創作有趣的作品吧。</h1>
 
 <h3>參考書目</h3>
@@ -66,12 +66,20 @@
 
 <h2> AR 擴充實景 </h2>
 
-#胸章的AR 擴充實景 : [![AR 擴充實景](https://img.shields.io/badge/開始-ffffff?style=for-the-badge&logo=none)](https://mixocreative.com/ar/?glb-badge_flat=Q版貓狗胸章%20橫&&glb-badge_vertical=Q版貓狗胸章%20直立)
+__胸章的 AR 擴充實景 [點擊下面啓動]:__
 
-<a href="https://mixocreative.com/ar/?glb-badge" style="display:inline-block; background-color:white; padding:10px; border-radius:8px; text-decoration:none; color:black;">
-  AR 擴充實景 胸章
-</a>
+<a href="https://mixocreative.com/ar/?glb-badge_flat=Q版貓狗胸章%20橫放&&glb-badge_vertical=Q版貓狗胸章%20直立" target="_blank"><img src="https://www.mixocreative.com/ar/img/ar-demo.png" width="100"></a>
+### 使用説明
 
+![]( width=100)
+<img src="https://www.mixocreative.com/ar/img/ar-instruction-bg.png" width="300">
+1. 模型若有不同顯示選項，將在這裏列出。
+2. 支援 3D AR 功能的裝置會顯示__啟動本機擴充實景__ APP 的按鈕
+3. 大部分不支援 3D AR 功能的裝置依然可以瀏覽器上鑑賞3D模型
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+</div>
+ 
 <hr/>
  <h2>3D Printables 3D 列印標的物</h2>
   
@@ -95,5 +103,3 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <hr/>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-</div>
