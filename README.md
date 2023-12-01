@@ -11,7 +11,7 @@
 <span><img src="https://mixocreative.com/ar/img/logo-3d.png" alt="Logo" width="100"><img src="https://mixocreative.com/ar/img/logo-type.svg" alt="Logo" width="100"></span>
 <p>Q版貓狗胸章立體化3D列印版本由明上堂有限公司設計提供，檔案版權公開。</p>
 
-<p> [註] 明上堂有限公司不是Q版貓狗胸章(2D)的原作者。</p>
+<p> [註] 明上堂有限公司並非Q版貓狗胸章(2D)的原作者。</p>
 <hr/>
 
 
@@ -37,7 +37,7 @@
 
 
 <h2>創作目的</h2>
-<p>將大家喜歡的胸針立體化，公開讓民眾大量3D列印複製自用。</p>
+<p>將大家喜歡的胸章立體化，公開讓民眾大量3D列印複製自用。</p>
 
 <img src="img/pp_1.png" width="auto">
 
