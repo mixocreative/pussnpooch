@@ -51,6 +51,19 @@
 <p>愛貓愛狗可以是普通市民之間，無分黨派，最大的公約數。 SP Huntington 在文明衝突論中認為，人與人之間最難化解的衝突源自文化圈子(afiliation)之間的身份認同、宗教、利益與政治理念。能夠超越這些圈子的共同興趣/喜好，可以在矛盾之中締造和平的契機。</p>
 <h1>為了世界和平，讓我們努力產出有趣的作品吧。</h1>
 
+
+<p>
+    Public Diplomacy emerges as a pivotal concern for designers within the academic discourse. Designers play a pivotal role in not only determining the visual and thematic elements of their creations but also in fostering a sense of unity within the society they engage with. Externally, the resultant products serve as reflective projections that contribute to the formation of indistinct impressions among foreign entities regarding the Country Of Origin. Designers assume an indispensable role in the establishment of cross-cultural connections, facilitation of mutual comprehension, and the active promotion of national identity.
+</p>
+<p>
+    Conversely, external entities may endeavor to exert influence on public opinion through non-militaristic avenues. Disinformation and viral marketing have demonstrated their effectiveness in cultivating social distrust towards democracy. The embracement of domestic values is therefore an imperative countermeasures to the impact of external interventions. Nation branding, as a strategic endeavor, underscores the significance of autonomy and locality, thereby reinforcing a nation's distinctive strengths and value.
+</p>
+<p>
+    According to archaeological and anthropological studies, the Neanderthals, lacking substantial cultural exchanges between cohorts—especially in the trade of non-utilitarian items like instruments and sculptures—succumbed to marginalization in comparison to Homo sapiens. Yasushi Watanabe contends that the post-World War II image of Japan as a nation garnered unexpectedly positive appraisals through the conduits of cultural exports.
+</p>
+<p>
+    Everybody love pets. We can share common interests irrespective of our beliefs. In alignment with Samuel P. Huntington's Clash of Civilizations theory, it is posited that the most intractable conflicts between individuals emanate from identity, religious affiliations, vested interests, and political ideologies embedded within cultural spheres. Common interests and predilections that traverse these delineated spheres serve as conduits for the reconciliation of discord, thereby a chance for peaceful coexistence amidst prevailing conflicts.
+</p>
 <h3>參考書目 | References</h3>
 
 - Alice Roberts | **The Incredible Human Journey**
@@ -98,7 +111,7 @@ __胸章的 AR 擴充實景 :__
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<h2>Other Contents| 其他內容</h2>
+<h2>Other Contents | 其他內容</h2>
 
   | 資料夾         |               | 
 | ------------- |:-------------:| 
