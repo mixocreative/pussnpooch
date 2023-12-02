@@ -124,7 +124,6 @@ __胸章的 AR 擴充實景 AUGMENTED REALITY:__
 | ------------- |:-------------:|:-------------:|
 |<img src="svg/badge.png" width="300" >| [badge.svg](svg) | 插畫的SVG路徑檔 | 
 
-svg/badge.png
 <hr/>
 
  <h2>3D 列印標的物 | 3D Printables</h2>
