@@ -25,6 +25,8 @@
 
 <h2>連絡方式</h2>
 
+[:eight_spoked_asterisk: 我的網路名片 :eight_spoked_asterisk:](https://mixocreative.com/ncard/)
+
 [![](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/108497600666541l)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mixocreative@gmail.com)
 
