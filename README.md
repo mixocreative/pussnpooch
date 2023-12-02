@@ -87,11 +87,11 @@ __胸章的 AR 擴充實景 :__
 <hr/>
  <h2>3D Printables 3D 列印標的物</h2>
   
-|:open_file_folder: [3D Print 資料夾](3D%20Print)        |            | |
+|:open_file_folder: [3D Print 資料夾](3dprint)        |            | |
 | ------------- |:-------------:|:-------------:|
-|<img src="img/pp-one.png" width="300" >| [一體式胸章](3d%20print/一體式胸章) |一整個列印出來的胸章 | 
-|<img src="img/pp-mono.png" width="300" >| [組合式胸章](3D%20Print/組合式胸章) | 份件列印組裝的胸章 | 
-|<img src="img/pp-mold.png" width="300">| [胸章模具](3D%20Print/胸章模具) | 可供翻模用的胸章模具  |  
+|<img src="img/pp-one.png" width="300" >| [一體式胸章](3dprint/一體式胸章) |一整個列印出來的胸章 | 
+|<img src="img/pp-mono.png" width="300" >| [組合式胸章](3dprint/組合式胸章) | 份件列印組裝的胸章 | 
+|<img src="img/pp-mold.png" width="300">| [胸章模具](3dprint/胸章模具) | 可供翻模用的胸章模具  |  
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -100,7 +100,7 @@ __胸章的 AR 擴充實景 :__
 
   | 資料夾         |               | 
 | ------------- |:-------------:| 
-|:open_file_folder: [3D Print](3D%20Print)     | 3D 列印 .STL檔案 |
+|:open_file_folder: [3D Print](3dprint)     | 3D 列印 .STL檔案 |
 |:open_file_folder: [blender](blender)      | .blender 檔案 |
 |:open_file_folder: [ar](ar)      | AR 擴充實景 .glb 檔案 |
 |:open_file_folder: [img](img)      | 各種圖檔 |
