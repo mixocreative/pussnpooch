@@ -13,12 +13,16 @@
 <p>The 3D printed version of the PUSS & POOCH Dadge is designed and provided by Mixo Creative studio. The file copyright is open to the public.。</p>
 
 <p> [註] 明上堂有限公司並非Q版貓狗胸章(2D)的原作者。</p>
+<p> [*] we do not own the original design of the 2D piece.</p>
 <hr/>
 
 
 <h2>作品集與專頁 | Portfolio</h2>
-<p>我正在尋求藝術作品的商品化方案或展出機會，歡迎到 [Behance](https://www.behance.net/mixocreative) 瀏覽我的作品集。</p>
-<p>Like my work? Of course you do 😃. Have a look at my portfolio at [Behance](https://www.behance.net/mixocreative).</p>
+<a href="https://mixocreative.com/ncard/" target="_blank"> ⭐我的網路名片 about me ⭐</a>  
+
+我正在尋求藝術作品的商品化方案或展出機會，歡迎到 [Behance](https://www.behance.net/mixocreative) 瀏覽我的作品集。
+
+Like my work? Of course you do 😃. Have a look at my portfolio at [Behance](https://www.behance.net/mixocreative).
 
 [![](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mixocreative)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mixocreative)
@@ -27,14 +31,6 @@
 
 <h2>連絡方式 | Contact</h2>
 
-
- :eight_spoked_asterisk: <a href=https://mixocreative.com/ncard/" target="_blank" style="color:white"><b>我的網路名片</b></a>  :eight_spoked_asterisk: 
-
- 
- :eight_spoked_asterisk: <a href=https://mixocreative.com/ncard/" target="_blank" style="color:white"><b>About Me</b></a>  :eight_spoked_asterisk: 
- 
-<br/>
-<br/>
 
 [![](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)](https://m.me/108497600666541l)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mixocreative@gmail.com)
