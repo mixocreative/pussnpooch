@@ -1,6 +1,9 @@
 <a name="readme-top"></a>
 <!-- PROJECT LOGO -->
-<h1 align="center">PUSS & POOCH 3D Badge :cat2::dog2: Q版貓狗胸章 3D 列印版</h1>
+<h1 align="center"> :cat2::dog2: <br/>
+PUSS & POOCH 3D Badge <br/>
+ Q版貓狗立體胸章 [3D 列印版 + AR]
+</h1>
 <br />
 <div align="center">
     <img src="img/logo.png" alt="Logo" width="auto">
@@ -59,10 +62,11 @@ Like my work? Of course you do 😃. Have a look at my portfolio at [Behance](ht
 
 
 <p>
-    Public Diplomacy emerges as a pivotal concern for designers within the academic discourse. Designers play a pivotal role in not only determining the visual and thematic elements of their creations but also in fostering a sense of unity within the society they engage with. Externally, the resultant products serve as reflective projections that contribute to the formation of indistinct impressions among foreign entities regarding the Country Of Origin. Designers assume an indispensable role in the establishment of cross-cultural connections, facilitation of mutual comprehension, and the active promotion of national identity.
+    
+Public Diplomacy has emerged as a significant focal point within the realm of design in academic discourse.  Designers play a pivotal role in not only determining the visual and thematic elements of their creations but also in fostering a sense of unity within the society they engage with. Externally, the resultant products serve as reflective projections that contribute to the formation of indistinct impressions among foreign entities regarding the Country Of Origin. Designers assume an indispensable role in the establishment of cross-cultural connections, facilitation of mutual comprehension, and the active promotion of national identity.
 </p>
 <p>
-    Conversely, external entities may endeavor to exert influence on public opinion through non-militaristic avenues. Disinformation and viral marketing have demonstrated their effectiveness in cultivating social distrust towards democracy. The embracement of domestic values is therefore an imperative countermeasures to the impact of external interventions. Nation branding, as a strategic endeavor, underscores the significance of autonomy and locality, thereby reinforcing a nation's distinctive strengths and value.
+    On the flip side, external entities may endeavor to exert influence on public opinion through non-militaristic avenues. Disinformation and viral marketing have demonstrated their effectiveness in cultivating social distrust towards democracy. The embracement of domestic values is therefore an imperative countermeasures to the impact of external interventions. Nation branding, as a strategic endeavor, underscores the significance of autonomy and locality, thereby reinforcing a nation's distinctive strengths and value.
 </p>
 <p>
     According to archaeological and anthropological studies, the Neanderthals, lacking substantial cultural exchanges between cohorts—especially in the trade of non-utilitarian items like instruments and sculptures—succumbed to marginalization in comparison to Homo sapiens. Yasushi Watanabe contends that the post-World War II image of Japan as a nation garnered unexpectedly positive appraisals through the conduits of cultural exports.
