@@ -10,6 +10,7 @@
 <h2>關於 | Info</h2>
 <span><img src="https://mixocreative.com/ar/img/logo-3d.png" alt="Logo" width="100"><img src="https://mixocreative.com/ar/img/logo-type.svg" alt="Logo" width="100"></span>
 <p>Q版貓狗胸章立體化3D列印版本由明上堂有限公司設計提供，檔案版權公開。</p>
+<p>The 3D printed version of the PUSS & POOCH Dadge is designed and provided by Mixo Creative studio. The file copyright is open to the public.。</p>
 
 <p> [註] 明上堂有限公司並非Q版貓狗胸章(2D)的原作者。</p>
 <hr/>
@@ -17,6 +18,7 @@
 
 <h2>作品集與專頁 | Portfolio</h2>
 <p>我正在尋求藝術作品的商品化方案或展出機會，歡迎到 [Behance](https://www.behance.net/mixocreative) 瀏覽我的作品集。</p>
+<p>Like my work? Of course you do 😃. Have a look at my portfolio at [Behance](https://www.behance.net/mixocreative).</p>
 
 [![](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mixocreative)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mixocreative)
@@ -24,7 +26,13 @@
 
 
 <h2>連絡方式 | Contact</h2>
+
+
  :eight_spoked_asterisk: <a href=https://mixocreative.com/ncard/" target="_blank" style="color:white"><b>我的網路名片</b></a>  :eight_spoked_asterisk: 
+
+ 
+ :eight_spoked_asterisk: <a href=https://mixocreative.com/ncard/" target="_blank" style="color:white"><b>About Me</b></a>  :eight_spoked_asterisk: 
+ 
 <br/>
 <br/>
 
@@ -41,6 +49,8 @@
 
 <h2>創作目的 | Objective</h2>
 <p>將大家喜歡的胸章立體化，公開讓民眾大量3D列印複製自用。</p>
+<p>We are transforming the well-loved badge into a three-dimensional design, openly allowing the public to replicate it through 3D printing for personal use.</p>
+
 
 <img src="img/pp_1.png" width="auto">
 
@@ -84,11 +94,15 @@
 
 <h2> AR 擴充實景 | Augmented Reality</h2>
 
-__胸章的 AR 擴充實景 :__
+__胸章的 AR 擴充實景 AUGMENTED REALITY:__
 
 <a href="https://mixocreative.com/ar/?glb-badge_flat=Q版貓狗胸章%20橫放&&glb-badge_vertical=Q版貓狗胸章%20直立" target="_blank"><img src="https://www.mixocreative.com/ar/img/ar-demo.png" width="100"></a> 
-:arrow_right: <a href="https://mixocreative.com/ar/?glb-badge_flat=Q版貓狗胸章-橫放&&glb-badge_vertical=Q版貓狗胸章-直立" target="_blank"> 點擊啓動 </a> :arrow_left:
-### 使用説明
+:arrow_right: <a href="https://mixocreative.com/ar/?glb-badge_flat=Q版貓狗胸章-橫放&&glb-badge_vertical=Q版貓狗胸章-直立" target="_blank"> 點擊啓動 Try It Out</a> :arrow_left:
+ℹ️ 請使用chrome瀏覽器啓動頁面。
+ℹ️ Please use chrome browser to launch the AR page.
+
+### 使用説明 | Instructions
+
 
 ![]( width=100)
 <img src="https://www.mixocreative.com/ar/img/ar-instruction-bg.png" width="300">
@@ -96,17 +110,30 @@ __胸章的 AR 擴充實景 :__
 2. 支援 __3D AR__ 功能的裝置會顯示 __啟動本機擴充實景 APP__  的按鈕
 3. 大部分不支援 __3D AR__ 功能的裝置依然可以瀏覽器上鑑賞3D模型
 
+1. If the model has different display options, they will be listed here.
+2. Devices that support 3D AR functionality will display a button to launch the local Augmented Reality (AR) app.
+3. Most devices that do not support 3D AR functionality can still view the 3D model in the browser.
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 </div>
  
 <hr/>
+ <h2>2D 檔案 | Illustration Files</h2>
+
+ |:open_file_folder: [3D svg 資料夾](svg)        |            | |
+| ------------- |:-------------:|:-------------:|
+|<img src="svg/badge.png" width="300" >| [badge.svg](svg) | 插畫的SVG路徑檔 | 
+
+svg/badge.png
+<hr/>
+
  <h2>3D 列印標的物 | 3D Printables</h2>
   
 |:open_file_folder: [3D Print 資料夾](3dprint)        |            | |
 | ------------- |:-------------:|:-------------:|
-|<img src="img/pp-one.png" width="300" >| [一體式胸章](3dprint/一體式胸章) |一整個列印出來的胸章 | 
-|<img src="img/pp-mono.png" width="300" >| [組合式胸章](3dprint/組合式胸章) | 份件列印組裝的胸章 | 
-|<img src="img/pp-mold.png" width="300">| [胸章模具](3dprint/胸章模具) | 可供翻模用的胸章模具  |  
+|<img src="img/pp-one.png" width="300" >| [一體式胸章](3dprint/一體式胸章) |一整個列印出來的胸章<br/> Badge in one-piece. | 
+|<img src="img/pp-mono.png" width="300" >| [組合式胸章](3dprint/組合式胸章) | 份件列印組裝的胸章<br/> Badge printed in parts. | 
+|<img src="img/pp-mold.png" width="300">| [胸章模具](3dprint/胸章模具) | 可供翻模用的胸章模具<br/> Mold for the Badge.|  
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -115,10 +142,10 @@ __胸章的 AR 擴充實景 :__
 
   | 資料夾         |               | 
 | ------------- |:-------------:| 
-|:open_file_folder: [3D Print](3dprint)     | 3D 列印 .STL檔案 |
-|:open_file_folder: [blender](blender)      | .blender 檔案 |
-|:open_file_folder: [ar](ar)      | AR 擴充實景 .glb 檔案 |
-|:open_file_folder: [svg](svg)      | svg圖檔 |
+|:open_file_folder: [3D Print](3dprint)     | 3D 列印 .STL檔案<br/>STL files for 3D printing. |
+|:open_file_folder: [blender](blender)      | .blender 檔案<br/>Blender files of the badge design. |
+|:open_file_folder: [ar](ar)      | AR 擴充實景 .glb 檔案<br/>AR .glb files for Augmented Reality. |
+|:open_file_folder: [svg](svg)      | svg圖檔<br/>SVG file of the illustration. |
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <hr/>
