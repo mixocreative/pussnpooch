@@ -98,7 +98,8 @@ __胸章的 AR 擴充實景 AUGMENTED REALITY:__
 
 <a href="https://mixocreative.com/ar/?glb-badge_flat=Q版貓狗胸章%20橫放&&glb-badge_vertical=Q版貓狗胸章%20直立" target="_blank"><img src="https://www.mixocreative.com/ar/img/ar-demo.png" width="100"></a> 
 :arrow_right: <a href="https://mixocreative.com/ar/?glb-badge_flat=Q版貓狗胸章-橫放&&glb-badge_vertical=Q版貓狗胸章-直立" target="_blank"> 點擊啓動 Try It Out</a> :arrow_left:
-ℹ️ 請使用chrome瀏覽器啓動頁面。
+<br/>
+ℹ️ 請使用chrome瀏覽器啓動頁面。<br/>
 ℹ️ Please use chrome browser to launch the AR page.
 
 ### 使用説明 | Instructions
