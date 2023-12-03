@@ -23,11 +23,12 @@ PUSS & POOCH 3D Badge <br/>
 <h2>作品集與專頁 | Portfolio</h2>
 <br/>
 <a href="https://mixocreative.com/ncard/" target="_blank"> ⭐我的網路名片 about me ⭐</a>  <br/>
-🔽-------------------------------------------------------------------------🔽<br/>
+🔽------------------------------------🔽<br/>
 
 歡迎到 [Behance](https://www.behance.net/mixocreative) 瀏覽我的作品集。<br/>
-Like my work? Of course you do 😃. Have a look at my portfolio at [Behance](https://www.behance.net/mixocreative).<br/>
-🔼-------------------------------------------------------------------------🔼<br/>
+Like my work? Of course you do 😃. 
+Have a look at my portfolio at [Behance](https://www.behance.net/mixocreative).<br/>
+🔼------------------------------------🔼<br/>
 
 [![](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mixocreative)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mixocreative)
