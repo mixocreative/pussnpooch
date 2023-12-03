@@ -13,7 +13,7 @@ PUSS & POOCH 3D Badge <br/>
 <h2>關於 | Info</h2>
 <span><img src="https://mixocreative.com/ar/img/logo-3d.png" alt="Logo" width="100"><img src="https://mixocreative.com/ar/img/logo-type.svg" alt="Logo" width="100"></span>
 <p>Q版貓狗胸章立體化3D列印版本由明上堂有限公司設計提供，檔案版權公開。</p>
-<p>The 3D printed version of the PUSS & POOCH Dadge is designed and provided by Mixo Creative studio. The file copyright is open to the public.。</p>
+<p>The 3D printed version of the PUSS & POOCH Badge is designed and provided by Mixo Creative studio. The file copyright is open to the public.。</p>
 
 <p> [註] 明上堂有限公司並非Q版貓狗胸章(2D)的原作者。</p>
 <p> [*] we do not own the original design of the 2D piece.</p>
