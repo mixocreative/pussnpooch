@@ -15,17 +15,18 @@ PUSS & POOCH 3D Badge <br/>
 <p>Q版貓狗胸章立體化3D列印版本由明上堂有限公司設計提供，檔案版權公開。</p>
 <p>The 3D version of the PUSS & POOCH Badge is designed and provided by Mixo Creative studio. The intent is to keep the files open source.</p>
 
-<p> [註] 明上堂有限公司並非Q版貓狗胸章(2D)的原作者。</p>
-<p> [*] we do not own the original design of the 2D piece.</p>
+<p> [註] 明上堂有限公司並非Q版貓狗胸章(2D)的原作者。<br/>
+ [*] we do not own the original design of the 2D piece.</p>
 <hr/>
 
 
 <h2>作品集與專頁 | Portfolio</h2>
-<a href="https://mixocreative.com/ncard/" target="_blank"> ⭐我的網路名片 about me ⭐</a>  
-
-歡迎到 [Behance](https://www.behance.net/mixocreative) 瀏覽我的作品集。
-
+<br/>
+<a href="https://mixocreative.com/ncard/" target="_blank"> ⭐我的網路名片 about me ⭐</a>  <br/>
+🔽-------------------------------------------------------------------------🔽<br/>
+歡迎到 [Behance](https://www.behance.net/mixocreative) 瀏覽我的作品集。<br/>
 Like my work? Of course you do 😃. Have a look at my portfolio at [Behance](https://www.behance.net/mixocreative).
+🔼-------------------------------------------------------------------------🔼<br/>
 
 [![](https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/mixocreative)
 [![](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mixocreative)
@@ -62,7 +63,7 @@ Like my work? Of course you do 😃. Have a look at my portfolio at [Behance](ht
 
 
 <p>
-    
+ <p align="right">(<a href="#readme-top">back to top</a>)</p>   
 Public Diplomacy has emerged as a significant focal point within the realm of design in academic discourse.  Designers play a pivotal role in not only determining the visual and thematic elements of their creations but also in fostering a sense of unity within the society they engage with. Externally, the resultant products serve as reflective projections that contribute to the formation of indistinct impressions among foreign entities regarding the Country Of Origin. Designers assume an indispensable role in the establishment of cross-cultural connections, facilitation of mutual comprehension, and the active promotion of national identity.
 </p>
 <p>
@@ -149,3 +150,13 @@ __胸章的 AR 擴充實景 AUGMENTED REALITY:__
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <hr/>
+
+ <h1>可是寶寶不會用 GitHub | Not getting along with GitHub? </h1>
+<img src="https://assets.cults3d.com/assets/logos/cults-3d-logo-ae57f2fa1b91db60c29f101ceb58a480ffe71c224b30373247d6f69057322b09.svg" width="100">
+
+好啦你可以從 [cults3d](https://cults3d.com/:1617577) 平台下載 STL檔案。<br/>
+ No worries, we got you back. You can download the STL files from [Cults3D](https://cults3d.com/:1617577)
+ 
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
