@@ -107,8 +107,6 @@ __胸章的 AR 擴充實景 AUGMENTED REALITY:__
 
 ### 使用説明 | Instructions
 
-
-![]( width=100)
 <img src="https://www.mixocreative.com/ar/img/ar-instruction-bg.png" width="300">
 1. 模型若有不同顯示選項，將在這裏列出。
 2. 支援 __3D AR__ 功能的裝置會顯示 __啟動本機擴充實景 APP__  的按鈕
