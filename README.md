@@ -1,8 +1,14 @@
 <a name="readme-top"></a>
+
+# Closed
+
+It is unfortunate that we received a lot of complaints (ironically) from the supporters of the campaign that we have no rights to open source and aid the election through creative means.
+很不幸地，我們收到了很多來自支持者的投訴，指責我們沒有權利以二創手段開源檔案並支援選舉。 這邊只好尊重台灣國情。
+
 <!-- PROJECT LOGO -->
 <h1 align="center"> :cat2::dog2: <br/>
-PUSS & POOCH 3D Badge <br/>
- Q版貓狗立體胸章 [3D 列印版 + AR]
+PUSS & POOCH 3D Badge [closed] <br/>
+ Q版貓狗立體胸章 [3D 列印版 + AR] [ 已下架 ]
 </h1>
 <br />
 <div align="center">
